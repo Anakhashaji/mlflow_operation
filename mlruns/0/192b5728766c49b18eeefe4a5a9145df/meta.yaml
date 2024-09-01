@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anakh/Desktop/dlllm/deeplearning/mlflow_operation/mlruns/0/192b5728766c49b18eeefe4a5a9145df/artifacts
+end_time: 1725158936009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 192b5728766c49b18eeefe4a5a9145df
+run_name: luxuriant-fish-219
+run_uuid: 192b5728766c49b18eeefe4a5a9145df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725158932948
+status: 3
+tags: []
+user_id: anakh

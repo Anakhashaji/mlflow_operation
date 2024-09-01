@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anakh/Desktop/dlllm/deeplearning/mlflow_operation/mlruns/0/e6dbe6f15e164e058b521585a36a5600/artifacts
+end_time: 1725158411727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6dbe6f15e164e058b521585a36a5600
+run_name: mercurial-elk-619
+run_uuid: e6dbe6f15e164e058b521585a36a5600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725158408419
+status: 3
+tags: []
+user_id: anakh
